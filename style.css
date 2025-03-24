@@ -1,7 +1,12 @@
-.linkFormato{
+.linksFormato{
 
-   color: rgb(26, 8, 8);
-   font-size: 20px;
-   font-weight: bold;
-   text-align: center;
+    color: white;
+    background-color: blue;
+    padding: 10px 15px;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer; /* Hace que el cursor se vea como un enlace */
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
 }
