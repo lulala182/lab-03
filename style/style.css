@@ -1,3 +1,13 @@
+.parrafos {
+
+    color: rgb(0, 0, 0);
+    padding: 10px 15px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: medium;
+}
+
+
 .linksFormato {
 
     color: white;
